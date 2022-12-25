@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EquipmentDB.Forms.AboutForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACBAAAAAAQCAAPECAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>eRQYBEARELBBRvmg4ZzEGQJSDQg6qBpI4v4DQAA8CxE=</HashCode>
+      <FileName>View\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainFormManager" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>URAIBEARELBBBvmgoRTACQJSDQg6qBpI4v8CQAA8AxE=</HashCode>
+      <FileName>View\MainFormManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainFormUser" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QRAABEARELBBBvmgoQDAAQJCCQgqiBpAoPoCYAA8AxE=</HashCode>
+      <FileName>View\MainFormUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EmployeeEquipmentForm" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAAAAwAKBIBNgAAQiAR/NCACAIAAAAAAAAgAAAAgA=</HashCode>
+      <FileName>View\MainForms\EmployeeEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EmployeeEquipmentReportForm" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAiBBJEgAAACABPNCACAIAAAIAAAAgAAAAgA=</HashCode>
+      <FileName>View\MainForms\EmployeeEquipmentReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EmployeeRoomsForm" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAABARAiBAgNgAAQCABfMCgAAAAAAABKAAAAkAAQA=</HashCode>
+      <FileName>View\MainForms\EmployeeRoomsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EmployeesForm" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAACABRAjBQAdSBISiJA/NCABAOAIACACBCQAAEoUY=</HashCode>
+      <FileName>View\MainForms\EmployeesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EquipmentLeasingForm" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAhABRALFIi9ABASiADfNCgAAGAAAAACACEQAgAQQ=</HashCode>
+      <FileName>View\MainForms\EquipmentLeasingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.EquipmentsForm" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAADAARACBBBnmAoACAAfdCCAACAABAACICQAAQARA=</HashCode>
+      <FileName>View\MainForms\EquipmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.RoomEquipmentForm" Collapsed="true">
+    <Position X="9.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RCAABABRADBJgtCAAQCQBfMCiAACAQBABCKCAAAAAxQ=</HashCode>
+      <FileName>View\MainForms\RoomEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.RoomPassportForm" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAACAQAiBAABgIgBCRBfMCACAAAQAAAACAgAgEAAA=</HashCode>
+      <FileName>View\MainForms\RoomPassportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.RoomsForm" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAABAQACBAgPACAQCIB/MCAAAAQACgBCAAAAACAQA=</HashCode>
+      <FileName>View\MainForms\RoomsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.UsersForm" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQAiBAAMAAAQCABfMCgAAABAAAAIAAABAAAAA=</HashCode>
+      <FileName>View\MainForms\UsersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.VerificationEquipmentForm" Collapsed="true">
+    <Position X="9.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BBAAAAIQBCAAgEAAAACgBPcCAAIDAAACBhAOAAQAEAA=</HashCode>
+      <FileName>View\MainForms\VerificationEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.MainForms.WriteOffEquipmentsForm">
+    <Position X="4.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQQADABRADBJItCAMRCIAfcCCAACgABAQCICwCAABRQ=</HashCode>
+      <FileName>View\MainForms\WriteOffEquipmentsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EmployeeApp.View.LoginForm" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACBAAAAAAACAAgACAEAAgAACAQAQAABAAAA=</HashCode>
+      <FileName>View\MainForms\LoginForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="12.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditCorpsForm" Collapsed="true">
+    <Position X="1.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAACBAABIAAACABEQGABAAAgAAACAEAAAAAAQ=</HashCode>
+      <FileName>View\AddEditForms\AddEditCorpsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEmployeeEquipmentForm" Collapsed="true">
+    <Position X="10.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAgAACBIABJAAAGABAQCABAAAgAAAAAECAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditEmployeeEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEmployeeForm" Collapsed="true">
+    <Position X="19.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAgAgCBAABIAAAiQBAQCABAIAgAAgAAEAAAAgCA=</HashCode>
+      <FileName>View\AddEditForms\AddEditEmployeeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEmployeeRoomForm" Collapsed="true">
+    <Position X="26.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAQAGgAACBAABIAAACABAQCADAABgAAAAAECCAAAAQ=</HashCode>
+      <FileName>View\AddEditForms\AddEditEmployeeRoomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEquipmentForm" Collapsed="true">
+    <Position X="6" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAEBAEUAChAAhMACACABBQKgBIgAgAAAAAAAAAgBAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEquipmentLeasingForm" Collapsed="true">
+    <Position X="12.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAQAAgQACFAQBIEAACABAQCAAAAAgAgAAAECAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditEquipmentLeasingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditEquipmentTypeForm" Collapsed="true">
+    <Position X="21.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABgAACBAABIAAACABEQGABAAAgAAACAAAAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditEquipmentTypeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditManufacturerForm" Collapsed="true">
+    <Position X="28.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AggAAAgAACBAABIAAACABAQGABAAAgAAACAAAAAQAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditManufacturerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditOrganizationForm" Collapsed="true">
+    <Position X="6" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgBACBAABIAAACQBAQCABAAAgAAACAAAAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditOrganizationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditPostForm" Collapsed="true">
+    <Position X="15" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAgAACBAABIAAACABEQCABAAAkAAACAAAAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditPostForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditRoomEquipmentForm" Collapsed="true">
+    <Position X="24" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BkAACAgAACDAARIAAAGAJAQCABAAAgAABAAAAAACAgA=</HashCode>
+      <FileName>View\AddEditForms\AddEditRoomEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditRoomForm" Collapsed="true">
+    <Position X="31" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAACgAACBAABIACACABAQCABAAAgAABCAAAAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditRoomForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditUserForm" Collapsed="true">
+    <Position X="8.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAAAAgAACBAABIAAACABAQGABAAAgAAgQAEAAAAAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditUserForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.AddEditForms.AddEditWriteOffEquipmentForm" Collapsed="true">
+    <Position X="17.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAECCgAACBAIRICEAGABAQCABAAAgAAACBAgAACAAA=</HashCode>
+      <FileName>View\AddEditForms\AddEditWriteOffEquipmentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.ReferenceForms.CorpsForm" Collapsed="true">
+    <Position X="15.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGAAAAAQACBAAMAAAQCAAfEChAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>View\ReferenceForms\CorpsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.ReferenceForms.EquipmentTypesForm" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQAGBAAMAIAQCAAfECgAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>View\ReferenceForms\EquipmentTypesForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.ReferenceForms.ManufacturersForm" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQACBAAMAAAQKQAfECgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\ReferenceForms\ManufacturersForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.ReferenceForms.OrganizationsForm" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAQACBAAMAAIQCQAfFCgAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>View\ReferenceForms\OrganizationsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.Forms.ReferenceForms.PostsForm" Collapsed="true">
+    <Position X="22.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAQEDBAAMAAAQCAAfECgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>View\ReferenceForms\PostsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.View.Report.Report1" Collapsed="true">
+    <Position X="18" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAACAkAAAAAACAAAACAAAAAAAAAAAAQAAIAAA=</HashCode>
+      <FileName>View\Report\Report1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.View.Report.Report2" Collapsed="true">
+    <Position X="22.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAEAAAAAQCAAAACAAAAAAAAAAAEAAAAAIA=</HashCode>
+      <FileName>View\Report\Report2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.View.Report.Report3" Collapsed="true">
+    <Position X="20.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAFAACAEAAAAAACAAAACAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>View\Report\Report3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EquipmentDB.View.Report.Report4" Collapsed="true">
+    <Position X="24.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAIAAAACAGAAABAACAAAACAAAAAAIAAAAAAAAAAgA=</HashCode>
+      <FileName>View\Report\Report4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
